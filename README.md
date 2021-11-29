@@ -1,4 +1,4 @@
-# Week-13-Homework
+# CS541-Homework
 
 Click "launch binder" to render Docker image and build Binder session in R - May take several minutes. Once this has been completed, each additional time the binder is launched, it should load more quickly. Your homework is to follow the script and run the cell contents. In some instances you will be asked to insert some code of your own to run.
 
